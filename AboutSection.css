@@ -1,0 +1,111 @@
+/* === About секция основен стил === */
+.about-section {
+  background-color: #0F172A;
+  color: #fff;
+  padding: 2rem 1.5rem;
+  text-align: center;
+  box-shadow: 0 0 20px rgba(0, 0, 0, 0.5);
+}
+
+.section-title {
+  font-size: 2.5rem;
+  font-weight: 700;
+  color: #f97316;
+  margin-bottom: 1rem;
+}
+
+.about-text {
+  max-width: 600px;
+  margin: 0 auto 3rem;
+  font-size: 1.2rem;
+}
+
+/* === Образование и Трудов Опит контейнер === */
+.education-experience-wrapper {
+  display: flex;
+  justify-content: center;
+  gap: 4rem;
+  flex-wrap: wrap;
+}
+
+.education, .experience {
+  max-width: 400px;
+  text-align: left;
+}
+
+.education h3, .experience h3 {
+  color: #f97316;
+  margin-bottom: 1rem;
+}
+
+/* === Карти === */
+.cards-container {
+  display: flex;
+  gap: 1.5rem;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+.info-card {
+  background-color: rgba(243, 115, 22, 0.3);
+  border-radius: 1rem;
+  padding: 1.5rem;
+  width: 180px;
+  box-shadow: 0 0 30px rgba(243, 115, 22, 0.5);
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+}
+
+.info-card:hover {
+  background-color: rgba(243, 115, 22, 0.7);
+}
+
+/* === Секция умения === */
+.skills-section {
+  margin-top: 4rem;
+}
+
+.skills-section h3 {
+  color: #f97316;
+  margin-bottom: 1.5rem;
+}
+
+.skills-wrapper {
+  display: flex;
+  justify-content: center;
+  gap: 2rem;
+  flex-wrap: nowrap;
+  overflow-x: auto;
+  padding: 1rem;
+}
+
+/* Въртяща се анимация */
+@keyframes spin {
+  from { transform: rotate(0deg);}
+  to { transform: rotate(360deg);}
+}
+
+.skill-icon {
+  width: 90px;
+  height: 90px;
+  background-color: #1e293b;
+  border-radius: 1rem;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  box-shadow: 0 0 30px rgba(243, 115, 22, 0.5);
+  animation: spin 10s linear infinite;
+  cursor: pointer;
+  transition: box-shadow 0.3s ease;
+}
+
+.skill-icon:hover {
+  animation-play-state: paused;
+  box-shadow: 0 0 50px #f97316;
+}
+
+.skill-icon img {
+  max-width: 60%;
+  max-height: 60%;
+  pointer-events: none;
+}
