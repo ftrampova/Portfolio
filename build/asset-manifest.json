@@ -1,0 +1,35 @@
+{
+  "files": {
+    "main.css": "/Portfolio/static/css/main.38f034ab.css",
+    "main.js": "/Portfolio/static/js/main.203471c4.js",
+    "static/media/fatme.jpg": "/Portfolio/static/media/fatme.bf4d2f1e9e32685539f5.jpg",
+    "static/media/LifeBalance.png": "/Portfolio/static/media/LifeBalance.edb008c7cf70b0feb185.png",
+    "static/media/babysitter.png": "/Portfolio/static/media/babysitter.31785e5fc129babada4c.png",
+    "static/media/mockup2.png": "/Portfolio/static/media/mockup2.da562a894e19ec00cbd8.png",
+    "static/media/mockup4.png": "/Portfolio/static/media/mockup4.ef9806cbe7b5f69089ff.png",
+    "static/media/mockup1.png": "/Portfolio/static/media/mockup1.7a7036d81095f86ae448.png",
+    "static/media/mockup3.png": "/Portfolio/static/media/mockup3.a63fafd0b6611bbaebf4.png",
+    "static/media/web.jpg": "/Portfolio/static/media/web.99a6dbe16181b161f20b.jpg",
+    "static/media/canva.png": "/Portfolio/static/media/canva.ac7baa1f489b7cf64a79.png",
+    "static/media/hospital.jpg": "/Portfolio/static/media/hospital.45bd8ef429926c2c3005.jpg",
+    "static/media/video.jpg": "/Portfolio/static/media/video.34d9e45355a7edcf0712.jpg",
+    "static/media/figma.jpg": "/Portfolio/static/media/figma.491820588225cf7b5cff.jpg",
+    "static/media/capcut.png": "/Portfolio/static/media/capcut.5b62cd07c006e7b61798.png",
+    "static/media/wordpress.png": "/Portfolio/static/media/wordpress.b8a6c36c671530d23f55.png",
+    "static/media/php.png": "/Portfolio/static/media/php.46ea38f5f8c66712595a.png",
+    "static/media/react.png": "/Portfolio/static/media/react.c706fd574c7984e079b4.png",
+    "static/media/figma.png": "/Portfolio/static/media/figma.7cabd329813c508db39a.png",
+    "static/media/blender.png": "/Portfolio/static/media/blender.4f587dc181ff75bb66b4.png",
+    "static/media/woocommerce.png": "/Portfolio/static/media/woocommerce.687b08b7f566f3e89990.png",
+    "static/media/mysql.png": "/Portfolio/static/media/mysql.7148b80d1e1701221aed.png",
+    "static/media/js.png": "/Portfolio/static/media/js.794c5c43e6887c4d5c95.png",
+    "static/media/css.png": "/Portfolio/static/media/css.97f853360c25d55644c7.png",
+    "index.html": "/Portfolio/index.html",
+    "main.38f034ab.css.map": "/Portfolio/static/css/main.38f034ab.css.map",
+    "main.203471c4.js.map": "/Portfolio/static/js/main.203471c4.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.38f034ab.css",
+    "static/js/main.203471c4.js"
+  ]
+}
