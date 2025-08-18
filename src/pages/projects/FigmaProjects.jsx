@@ -87,7 +87,7 @@ const FigmaProjects = () => {
   alt="Project overlay"
   className="
     absolute 
-    right-[-20px] 
+    right-[-10px] 
     bottom-[-70px] 
     w-[700px] 
     h-auto 
